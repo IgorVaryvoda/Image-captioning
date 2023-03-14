@@ -1,242 +1,120 @@
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3550.jpg, caption: Caption: a brown shoe with brown laces on top of it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2699.jpg, caption: Caption: a pink tank top with a picture of a pig on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/1637.jpg, caption: Caption: a pair of white and red sneakers
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3168.jpg, caption: Caption: a white and blue shoe with a black sole
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2504.jpg, caption: Caption: a white tennis shoe with a black and white logo
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2712.jpg, caption: Caption: a white and blue dress with a blue bow
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2706.jpg, caption: Caption: a pink shirt with a winnie the pooh applique on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2707.jpg, caption: Caption: a pink dress with a cartoon character on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/1636.jpg, caption: Caption: a white shoe with black and red accents
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3551.jpg, caption: Caption: a brown sued boat shoe with a white sole
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3235.jpg, caption: Caption: a pair of black and blue shoes on a white background
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2705.jpg, caption: Caption: a blue shirt with a winnie the pooh on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2711.jpg, caption: Caption: a red and white checkered dress with a cat on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2738.jpg, caption: Caption: a white shirt and black pants with a lion on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2710.jpg, caption: Caption: a white dress with red polka dots and a minnie mouse on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2704.jpg, caption: Caption: a white and red dress with a flower on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3618.jpg, caption: Caption: a woman's flip flop flop flop flop flop flop flop flop flop flop flop
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/1806.jpg, caption: Caption: a pair of sandals that are on a white background
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2880.jpg, caption: Caption: a pair of black and grey shoes on a white background
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3556.jpg, caption: Caption: a brown leather shoe with a white sole
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3620.jpg, caption: Caption: a pair of green and black flip flops
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3807.jpg, caption: Caption: a red t - shirt with a picture of a bear on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2728.jpg, caption: Caption: a pink shirt and white skirt with winnie the pooh on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2700.jpg, caption: Caption: a white shirt with blue trims and a cartoon character on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2714.jpg, caption: Caption: a baby boy's red shirt and shorts set
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2715.jpg, caption: Caption: a tank top with a mickey mouse on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2701.jpg, caption: Caption: a yellow shirt with a cartoon character on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3806.jpg, caption: Caption: a green t - shirt with a picture of a cat on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2477.jpg, caption: Caption: a blue shoe with a white sole
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3557.jpg, caption: Caption: a black and grey sneaker with a rubber sole
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2887.jpg, caption: Caption: a women's black shoe with a button on the side
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3151.jpg, caption: Caption: a blue nike running shoe
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2717.jpg, caption: Caption: a white and blue dress with a red fox on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2703.jpg, caption: Caption: a red and white checkered shirt with a cartoon character on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2702.jpg, caption: Caption: a blue and white shirt with a deer on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2716.jpg, caption: Caption: a red and white striped shirt with a minnie mouse on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3150.jpg, caption: Caption: a women's nike running shoe in black and purple
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2886.jpg, caption: Caption: a woman's shoe with a red, blue, and green color scheme
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2611.jpg, caption: Caption: a woman's gold sandal with straps
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/1654.jpg, caption: Caption: a white sneaker with a white sole
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3309.jpg, caption: Caption: a white and blue tennis shoe on a white background
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3490.jpg, caption: Caption: a child's sandal with a blue and black strap
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3308.jpg, caption: Caption: a white and black sneaker with yellow accents
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2610.jpg, caption: Caption: a woman's black sandal with straps
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2821.jpg, caption: Caption: a man's tan leather sandals
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3134.jpg, caption: Caption: a woman's white sandals with a bow on the toe
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3322.jpg, caption: Caption: a purple shirt with a horse on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3135.jpg, caption: Caption: a pair of black and gold shoes on a white background
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2820.jpg, caption: Caption: a black sandal with two straps on the side
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3497.jpg, caption: Caption: a blue and black shoe on a white background
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3332.jpg, caption: Caption: a red shirt with a badge on the chest
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2399.jpg, caption: Caption: a man's black dress shoe on a white background
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/1653.jpg, caption: Caption: a tan sneaker with a rubber sole
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2616.jpg, caption: Caption: a pair of gold shoes on a white surface
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2628.jpg, caption: Caption: a woman's gold sandals with straps
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2827.jpg, caption: Caption: a black shoe with laces on the top of it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3324.jpg, caption: Caption: a purple shirt with a moose on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2211.jpg, caption: Caption: a boy's sandals with a strap
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/4072.jpg, caption: Caption: a gray and red sneaker with white laces
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2826.jpg, caption: Caption: a brown shoe with a black sole
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2629.jpg, caption: Caption: a pair of black sandals with a wooden heel
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2618.jpg, caption: Caption: a pair of silver shoes on a white background
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2817.jpg, caption: Caption: a black slip on shoe with a red stripe
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2220.jpg, caption: Caption: a pair of black and red sandals on a gray background
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3843.jpg, caption: Caption: a women's shoe with a peep toe
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3300.jpg, caption: Caption: a white and black sneaker with yellow accents
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2963.jpg, caption: Caption: a white and blue puma sneakers
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3301.jpg, caption: Caption: a women's white and pink running shoe
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3842.jpg, caption: Caption: a pair of pink shoes on a white background
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2627.jpg, caption: Caption: a woman's silver wedged sandal with straps
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3505.jpg, caption: Caption: a white and blue adidas sneakers
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2828.jpg, caption: Caption: a pair of blue denim high top sneakers
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2746.jpg, caption: Caption: a baby boy's yellow polo shirt and denim shorts
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3504.jpg, caption: Caption: a brown sandal with two straps and a black bottom
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2626.jpg, caption: Caption: a woman's red wedged sandal with a gold buckle
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3306.jpg, caption: Caption: a white and blue shoe with a black sole
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2742.jpg, caption: Caption: a white shirt and red and white striped skirt
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2964.jpg, caption: Caption: a white and green tennis shoe
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3307.jpg, caption: Caption: a black and white shoe with a white sole
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2227.jpg, caption: Caption: a black and grey sandal with two straps
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3503.jpg, caption: Caption: a boy's blue sandals with yellow accents
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2219.jpg, caption: Caption: a pair of black and silver shoes on a white background
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3463.jpg, caption: Caption: a women's white and black sneaker
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2741.jpg, caption: Caption: a girl's outfit with a pink shirt and plaid shorts
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2740.jpg, caption: Caption: a blue shirt and plaid shorts with a cat on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2218.jpg, caption: Caption: a pair of black and yellow shoes flying through the air
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3559.jpg, caption: Caption: a brown slip on shoe with a black sole
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2874.jpg, caption: Caption: a women's black shoe with straps
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/1831.jpg, caption: Caption: a black and white sneaker with red accents
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/4140.jpg, caption: Caption: a white shoe with green accents on the side
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3161.jpg, caption: Caption: a white and blue shoe on a gray background
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2727.jpg, caption: Caption: a yellow shirt with a tiger on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2900.jpg, caption: Caption: a women's silver high heeled shoe
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2901.jpg, caption: Caption: a women's black shoe with a plaid heel
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2732.jpg, caption: Caption: a white shirt with a mickey mouse on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3160.jpg, caption: Caption: a white shoe with a gold nike logo on the side
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2691.jpg, caption: Caption: a blue jean shorts with a mickey mouse patch on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3558.jpg, caption: Caption: a brown shoe with a brown and tan sole
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2888.jpg, caption: Caption: a women's sandal with a gold buckle
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3228.jpg, caption: Caption: a pair of black shoes with sequins
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2693.jpg, caption: Caption: a yellow shirt with a cartoon character on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2724.jpg, caption: Caption: a white and red shirt with a cartoon character on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2730.jpg, caption: Caption: a red shirt with a cartoon character on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2718.jpg, caption: Caption: a white and red dress with a red collar
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2719.jpg, caption: Caption: a small child's denim shorts with a cartoon character on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2889.jpg, caption: Caption: a pair of brown shoes with holes on them
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2872.jpg, caption: Caption: a pair of sandals with colorful straps
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3167.jpg, caption: Caption: a women's white and blue tennis shoe
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/4146.jpg, caption: Caption: a women's shoe with purple laces
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2720.jpg, caption: Caption: a blue jean shorts with a cartoon character on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2708.jpg, caption: Caption: a white dress with a cartoon character on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/1836.jpg, caption: Caption: a pair of white and red sneakers
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2697.jpg, caption: Caption: a blue dress with a picture of a bear on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3560.jpg, caption: Caption: a white shoe with a brown stripe on the side
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2642.jpg, caption: Caption: a black loafer with a leather sole
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2695.jpg, caption: Caption: a white and blue shirt with mickey mouse on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2722.jpg, caption: Caption: a blue jean shorts with mickey mouse patches
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2737.jpg, caption: Caption: a red shirt with a picture of winnie the pooh on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3159.jpg, caption: Caption: a white and blue shoe on a gray background
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/2694.jpg, caption: Caption: a red shirt that has a picture of a dog on it
-https://algorithms.sirv.com/e-commerce%20images%20data%20set/small-set/3561.jpg, caption: Caption: a pair of black and brown shoes on a white background
-File:3550.jpg, caption: Caption: a brown shoe with brown laces on top of it
-File:2699.jpg, caption: Caption: a pink tank top with a picture of a pig on it
-File:1637.jpg, caption: Caption: a pair of white and red sneakers
-File:3168.jpg, caption: Caption: a white and blue shoe with a black sole
-File:2504.jpg, caption: Caption: a white tennis shoe with a black and white logo
-File:2712.jpg, caption: Caption: a white and blue dress with a blue bow
-File:2706.jpg, caption: Caption: a pink shirt with a winnie the pooh applique on it
-File:2707.jpg, caption: Caption: a pink dress with a cartoon character on it
-File:1636.jpg, caption: Caption: a white shoe with black and red accents
-File:3551.jpg, caption: Caption: a brown sued boat shoe with a white sole
-File:3235.jpg, caption: Caption: a pair of black and blue shoes on a white background
-File:2705.jpg, caption: Caption: a blue shirt with a winnie the pooh on it
-File:2711.jpg, caption: Caption: a red and white checkered dress with a cat on it
-File:2738.jpg, caption: Caption: a white shirt and black pants with a lion on it
-File:2710.jpg, caption: Caption: a white dress with red polka dots and a minnie mouse on it
-File:2704.jpg, caption: Caption: a white and red dress with a flower on it
-File:3618.jpg, caption: Caption: a woman's flip flop flop flop flop flop flop flop flop flop flop flop
-File:1806.jpg, caption: Caption: a pair of sandals that are on a white background
-File:2880.jpg, caption: Caption: a pair of black and grey shoes on a white background
-File:3556.jpg, caption: Caption: a brown leather shoe with a white sole
-File:3620.jpg, caption: Caption: a pair of green and black flip flops
-File:3807.jpg, caption: Caption: a red t - shirt with a picture of a bear on it
-File:2728.jpg, caption: Caption: a pink shirt and white skirt with winnie the pooh on it
-File:2700.jpg, caption: Caption: a white shirt with blue trims and a cartoon character on it
-File:2714.jpg, caption: Caption: a baby boy's red shirt and shorts set
-File:2715.jpg, caption: Caption: a tank top with a mickey mouse on it
-File:2701.jpg, caption: Caption: a yellow shirt with a cartoon character on it
-File:3806.jpg, caption: Caption: a green t - shirt with a picture of a cat on it
-File:2477.jpg, caption: Caption: a blue shoe with a white sole
-File:3557.jpg, caption: Caption: a black and grey sneaker with a rubber sole
-File:2887.jpg, caption: Caption: a women's black shoe with a button on the side
-File:3151.jpg, caption: Caption: a blue nike running shoe
-File:2717.jpg, caption: Caption: a white and blue dress with a red fox on it
-File:2703.jpg, caption: Caption: a red and white checkered shirt with a cartoon character on it
-File:2702.jpg, caption: Caption: a blue and white shirt with a deer on it
-File:2716.jpg, caption: Caption: a red and white striped shirt with a minnie mouse on it
-File:3150.jpg, caption: Caption: a women's nike running shoe in black and purple
-File:2886.jpg, caption: Caption: a woman's shoe with a red, blue, and green color scheme
-File:2611.jpg, caption: Caption: a woman's gold sandal with straps
-File:1654.jpg, caption: Caption: a white sneaker with a white sole
-File:3309.jpg, caption: Caption: a white and blue tennis shoe on a white background
-File:3490.jpg, caption: Caption: a child's sandal with a blue and black strap
-File:3308.jpg, caption: Caption: a white and black sneaker with yellow accents
-File:2610.jpg, caption: Caption: a woman's black sandal with straps
-File:2821.jpg, caption: Caption: a man's tan leather sandals
-File:3134.jpg, caption: Caption: a woman's white sandals with a bow on the toe
-File:3322.jpg, caption: Caption: a purple shirt with a horse on it
-File:3135.jpg, caption: Caption: a pair of black and gold shoes on a white background
-File:2820.jpg, caption: Caption: a black sandal with two straps on the side
-File:3497.jpg, caption: Caption: a blue and black shoe on a white background
-File:3332.jpg, caption: Caption: a red shirt with a badge on the chest
 File:2399.jpg, caption: Caption: a man's black dress shoe on a white background
-File:1653.jpg, caption: Caption: a tan sneaker with a rubber sole
-File:2616.jpg, caption: Caption: a pair of gold shoes on a white surface
-File:2628.jpg, caption: Caption: a woman's gold sandals with straps
-File:2827.jpg, caption: Caption: a black shoe with laces on the top of it
-File:3324.jpg, caption: Caption: a purple shirt with a moose on it
-File:2211.jpg, caption: Caption: a boy's sandals with a strap
-File:4072.jpg, caption: Caption: a gray and red sneaker with white laces
-File:2826.jpg, caption: Caption: a brown shoe with a black sole
-File:2629.jpg, caption: Caption: a pair of black sandals with a wooden heel
-File:2618.jpg, caption: Caption: a pair of silver shoes on a white background
-File:2817.jpg, caption: Caption: a black slip on shoe with a red stripe
-File:2220.jpg, caption: Caption: a pair of black and red sandals on a gray background
-File:3843.jpg, caption: Caption: a women's shoe with a peep toe
-File:3300.jpg, caption: Caption: a white and black sneaker with yellow accents
-File:2963.jpg, caption: Caption: a white and blue puma sneakers
-File:3301.jpg, caption: Caption: a women's white and pink running shoe
-File:3842.jpg, caption: Caption: a pair of pink shoes on a white background
-File:2627.jpg, caption: Caption: a woman's silver wedged sandal with straps
-File:3505.jpg, caption: Caption: a white and blue adidas sneakers
-File:2828.jpg, caption: Caption: a pair of blue denim high top sneakers
-File:2746.jpg, caption: Caption: a baby boy's yellow polo shirt and denim shorts
-File:3504.jpg, caption: Caption: a brown sandal with two straps and a black bottom
-File:2626.jpg, caption: Caption: a woman's red wedged sandal with a gold buckle
-File:3306.jpg, caption: Caption: a white and blue shoe with a black sole
-File:2742.jpg, caption: Caption: a white shirt and red and white striped skirt
-File:2964.jpg, caption: Caption: a white and green tennis shoe
-File:3307.jpg, caption: Caption: a black and white shoe with a white sole
-File:2227.jpg, caption: Caption: a black and grey sandal with two straps
-File:3503.jpg, caption: Caption: a boy's blue sandals with yellow accents
-File:2219.jpg, caption: Caption: a pair of black and silver shoes on a white background
-File:3463.jpg, caption: Caption: a women's white and black sneaker
-File:2741.jpg, caption: Caption: a girl's outfit with a pink shirt and plaid shorts
-File:2740.jpg, caption: Caption: a blue shirt and plaid shorts with a cat on it
-File:2218.jpg, caption: Caption: a pair of black and yellow shoes flying through the air
-File:3559.jpg, caption: Caption: a brown slip on shoe with a black sole
-File:2874.jpg, caption: Caption: a women's black shoe with straps
-File:1831.jpg, caption: Caption: a black and white sneaker with red accents
-File:4140.jpg, caption: Caption: a white shoe with green accents on the side
-File:3161.jpg, caption: Caption: a white and blue shoe on a gray background
-File:2727.jpg, caption: Caption: a yellow shirt with a tiger on it
-File:2900.jpg, caption: Caption: a women's silver high heeled shoe
-File:2901.jpg, caption: Caption: a women's black shoe with a plaid heel
-File:2732.jpg, caption: Caption: a white shirt with a mickey mouse on it
-File:3160.jpg, caption: Caption: a white shoe with a gold nike logo on the side
-File:2691.jpg, caption: Caption: a blue jean shorts with a mickey mouse patch on it
-File:3558.jpg, caption: Caption: a brown shoe with a brown and tan sole
-File:2888.jpg, caption: Caption: a women's sandal with a gold buckle
-File:3228.jpg, caption: Caption: a pair of black shoes with sequins
-File:2693.jpg, caption: Caption: a yellow shirt with a cartoon character on it
-File:2724.jpg, caption: Caption: a white and red shirt with a cartoon character on it
-File:2730.jpg, caption: Caption: a red shirt with a cartoon character on it
-File:2718.jpg, caption: Caption: a white and red dress with a red collar
-File:2719.jpg, caption: Caption: a small child's denim shorts with a cartoon character on it
-File:2889.jpg, caption: Caption: a pair of brown shoes with holes on them
-File:2872.jpg, caption: Caption: a pair of sandals with colorful straps
 File:3167.jpg, caption: Caption: a women's white and blue tennis shoe
-File:4146.jpg, caption: Caption: a women's shoe with purple laces
-File:2720.jpg, caption: Caption: a blue jean shorts with a cartoon character on it
-File:2708.jpg, caption: Caption: a white dress with a cartoon character on it
-File:1836.jpg, caption: Caption: a pair of white and red sneakers
-File:2697.jpg, caption: Caption: a blue dress with a picture of a bear on it
-File:3560.jpg, caption: Caption: a white shoe with a brown stripe on the side
-File:2642.jpg, caption: Caption: a black loafer with a leather sole
-File:2695.jpg, caption: Caption: a white and blue shirt with mickey mouse on it
+File:3550.jpg, caption: Caption: a brown shoe with brown laces on it
 File:2722.jpg, caption: Caption: a blue jean shorts with mickey mouse patches
-File:2737.jpg, caption: Caption: a red shirt with a picture of winnie the pooh on it
-File:3159.jpg, caption: Caption: a white and blue shoe on a gray background
+File:2716.jpg, caption: Caption: a red and white striped shirt with a minnie mouse on it
+File:2872.jpg, caption: Caption: a pair of sandals with colorful straps
+File:3561.jpg, caption: Caption: a black and brown shoe on a white background
+File:2611.jpg, caption: Caption: a woman's gold sandals with straps
+File:2888.jpg, caption: Caption: a women's sandal with a gold buckle
+File:3620.jpg, caption: Caption: a pair of green and black flip flops
+File:3134.jpg, caption: Caption: a woman's white sandals with a bow on the toe
+File:3332.jpg, caption: Caption: a red t - shirt with a badge on the chest
+File:3168.jpg, caption: Caption: a white and blue shoe with a black sole
+File:2220.jpg, caption: Caption: a pair of black and red sandals on a gray background
+File:3490.jpg, caption: Caption: a child's blue and black sandal
+File:3309.jpg, caption: Caption: a white tennis shoe with blue accents
+File:2901.jpg, caption: Caption: a women's black shoe with a plaid heel
+File:2702.jpg, caption: Caption: a blue and white shirt with a cartoon character on it
+File:2227.jpg, caption: Caption: a black and grey sandal with two straps
+File:3235.jpg, caption: Caption: a pair of black and blue shoes on a white background
+File:2610.jpg, caption: Caption: a women's black sandal with straps
+File:4146.jpg, caption: Caption: a women's shoe with purple laces
+File:2708.jpg, caption: Caption: a white dress with a cartoon character on it
+File:2732.jpg, caption: Caption: a white shirt with a mickey mouse on it
+File:2826.jpg, caption: Caption: a brown shoe with a black sole
+File:3497.jpg, caption: Caption: a blue and black shoe on a white background
+File:2504.jpg, caption: Caption: a white tennis shoe with a black and white logo
+File:1636.jpg, caption: Caption: a white shoe with black and red accents
+File:2746.jpg, caption: Caption: a baby boy's yellow polo shirt and denim shorts
+File:4072.jpg, caption: Caption: a gray and red sneaker with white laces
+File:2720.jpg, caption: Caption: a blue jean shorts with a cartoon character on it
+File:3559.jpg, caption: Caption: a brown slip on shoe with a black sole
+File:filelist.txt, error
+File:2691.jpg, caption: Caption: a small child's jean shorts with a mickey mouse patch
+File:2711.jpg, caption: Caption: a red and white checkered dress with a cartoon character on it
+File:2889.jpg, caption: Caption: a pair of brown shoes with holes on them
+File:2727.jpg, caption: Caption: a yellow shirt with a tiger on it
+File:2218.jpg, caption: Caption: a pair of black and yellow sandals hanging from a hook
+File:3151.jpg, caption: Caption: a blue nike running shoe
+File:2741.jpg, caption: Caption: a pink shirt and plaid shorts with a bunny on it
+File:2827.jpg, caption: Caption: a pair of black shoes with laces on them
+File:2718.jpg, caption: Caption: a white and red shirt with a red collar
+File:2618.jpg, caption: Caption: a pair of silver shoes on a white background
+File:2715.jpg, caption: Caption: a tank top with a mickey mouse on it
+File:3135.jpg, caption: Caption: a pair of black and gold shoes
 File:2694.jpg, caption: Caption: a red shirt that has a picture of a dog on it
-File:3561.jpg, caption: Caption: a pair of black and brown shoes on a white background
+File:2705.jpg, caption: Caption: a blue shirt with a winnie the pooh on it
+File:3618.jpg, caption: Caption: a woman's flip flop flop flop flop flop flop flop flop flop flop flop
+File:2616.jpg, caption: Caption: a pair of gold shoes on a white background
+File:2699.jpg, caption: Caption: a pink tank top with a cartoon character on it
+File:2728.jpg, caption: Caption: a pink shirt and white skirt with winnie the pooh on it
+File:3301.jpg, caption: Caption: a women's white and pink running shoe
+File:3551.jpg, caption: Caption: a brown sued boat shoe with a white sole
+File:1831.jpg, caption: Caption: a black and white sneaker with red accents
+File:2714.jpg, caption: Caption: a baby boy's red shirt and shorts set
+File:2704.jpg, caption: Caption: a white shirt with a red and white flower on it
+File:3308.jpg, caption: Caption: a white and black sneaker with yellow accents
+File:2817.jpg, caption: Caption: a black slip on shoe with a red stripe
+File:2963.jpg, caption: Caption: a white and blue puma sneakers
+File:2642.jpg, caption: Caption: a black loafer with a leather sole
+File:3307.jpg, caption: Caption: a black and white shoe with a white sole
+File:3322.jpg, caption: Caption: a purple shirt with a horse on it
+File:3306.jpg, caption: Caption: a white and blue shoe with a black sole
+File:2627.jpg, caption: Caption: a woman's silver wedged sandal with a silver strap
+File:2693.jpg, caption: Caption: a yellow shirt with a cartoon character on it
+File:1654.jpg, caption: Caption: a pair of white shoes with a white sole
+File:2697.jpg, caption: Caption: a blue dress with a picture of a cartoon character on it
+File:2477.jpg, caption: Caption: a blue shoe with a white sole
+File:4140.jpg, caption: Caption: a white shoe with green accents on the side
+File:2724.jpg, caption: Caption: a white and red shirt with a cartoon tiger on it
+File:2738.jpg, caption: Caption: a white and black shirt and black pants
+File:2695.jpg, caption: Caption: a white and blue shirt with mickey mouse on it
+File:2730.jpg, caption: Caption: a red shirt with a cartoon character on it
+File:3560.jpg, caption: Caption: a white shoe with a brown stripe on the side
+File:2737.jpg, caption: Caption: a red shirt with a picture of winnie the pooh on it
+File:2700.jpg, caption: Caption: a white shirt with blue trims and a cartoon character on it
+File:2211.jpg, caption: Caption: a boy's sandals with a strap
+File:2712.jpg, caption: Caption: a blue and white dress with a bow on the back
+File:3807.jpg, caption: Caption: a red t - shirt with a picture of a bear on it
+File:2828.jpg, caption: Caption: a pair of blue denim high top sneakers
+File:3505.jpg, caption: Caption: a white and blue adidas sneakers
+File:2740.jpg, caption: Caption: a blue shirt and plaid shorts with a cat on it
+File:2707.jpg, caption: Caption: a pink dress with a cartoon character on it
+File:2717.jpg, caption: Caption: a white and blue shirt with a red dog on it
+File:2710.jpg, caption: Caption: a white dress with red polka dots and a minnie mouse on it
+File:2821.jpg, caption: Caption: a man's tan leather sandal with two straps
+File:3463.jpg, caption: Caption: a white shoe with a purple and black stripe
+File:2887.jpg, caption: Caption: a women's black shoe with a button on the front
+File:2219.jpg, caption: Caption: a pair of black and silver shoes on a white background
+File:3228.jpg, caption: Caption: a pair of black shoes with sequins
+File:3159.jpg, caption: Caption: a white and blue shoe on a gray background
+File:3842.jpg, caption: Caption: a pair of pink shoes on a white background
+File:2719.jpg, caption: Caption: a small child's denim shorts with winnie the pooh patches
+File:1637.jpg, caption: Caption: a pair of white and red sneakers
+File:3806.jpg, caption: Caption: a green t - shirt with a picture of a cat on it
+File:2703.jpg, caption: Caption: a red and white checkered shirt with a cartoon character on it
+File:2964.jpg, caption: Caption: a white and green tennis shoe on a white background
+File:3504.jpg, caption: Caption: a child's sandal in brown and brown
+File:3324.jpg, caption: Caption: a purple shirt with an animal on it
+File:2880.jpg, caption: Caption: a pair of black and silver sandals on a white background
+File:1806.jpg, caption: Caption: a brown sandal with two straps and a hook
+File:2629.jpg, caption: Caption: a pair of black sandals with a wooden heel
+File:2742.jpg, caption: Caption: a white shirt and red and white striped skirt
+File:2706.jpg, caption: Caption: a pink shirt with a winnie the pooh applique on it
+File:1836.jpg, caption: Caption: a white and grey shoe with red accents
+File:3557.jpg, caption: Caption: a black and grey sneaker with a rubber sole
+File:2900.jpg, caption: Caption: a women's silver high heeled shoe
+File:3556.jpg, caption: Caption: a brown leather shoe with a white sole
+File:2626.jpg, caption: Caption: a woman's red wedged sandal with a gold buckle
+File:3503.jpg, caption: Caption: a boy's blue sandals with yellow accents
+File:3300.jpg, caption: Caption: a white and black sneaker with yellow accents
+File:1653.jpg, caption: Caption: a tan sneaker with a rubber sole
+File:3161.jpg, caption: Caption: a pair of white and blue sneakers
+File:2886.jpg, caption: Caption: a woman's shoe with a red, blue, and green color scheme
+File:3150.jpg, caption: Caption: a women's nike running shoe
+File:2701.jpg, caption: Caption: a yellow shirt with a cartoon character on it
+File:3843.jpg, caption: Caption: a women's sandal with an open toe
+File:2628.jpg, caption: Caption: a woman's gold and white sandals
+File:3558.jpg, caption: Caption: a brown slip on shoe with a brown sole
+File:3160.jpg, caption: Caption: a white shoe with a gold nike logo on the side
