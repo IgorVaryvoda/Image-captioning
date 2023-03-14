@@ -9,6 +9,7 @@ Powered by replicate
 ```pip3 install python-dotenv```
 
 ```pip3 install replicate```
+
 4. Run it
 
 ```python3 main.py --i /home/images --model blip2```
